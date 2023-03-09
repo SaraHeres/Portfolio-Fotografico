@@ -1,0 +1,10 @@
+Credenciales para los distintos usuarios
+
+Administrador 
+email: admin@admin.com
+rol : Admin
+
+Cliente
+email: usuario@usuario.com
+rol: cliente
+
